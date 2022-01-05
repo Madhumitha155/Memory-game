@@ -11,7 +11,7 @@ html{
     cursor:url("Ghost.cur"), auto;
 }
 body {
-    background-size: 1400px 695px;
+    background-size: cover;
     margin:0;
     background-image: url("halloween.jpg");
     
